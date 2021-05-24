@@ -1,0 +1,18 @@
+{
+    "name": "julianodesenv/solid-php",
+    "authors": [
+        {
+            "name": "Juliano Monteiro",
+            "email": "julianodesenv@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JulianoDesenv\\Solid\\": "src"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    }
+}
